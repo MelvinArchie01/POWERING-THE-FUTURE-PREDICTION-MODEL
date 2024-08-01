@@ -4,7 +4,7 @@ import pandas as pd
 
 
 
-df = pd.read_csv("C:\\Users\\user\\Documents\\RENEWABLE ENERGY FOLDER\\WorldBank Renewable Energy Consumption_WorldBank Renewable Energy Consumption.csv")
+df = pd.read_csv("WorldBank Renewable Energy Consumption_WorldBank Renewable Energy Consumption.csv")
 # app title
 st.title('Powering the Future: A Data-Driven Approach to Renewable Energy Forecasting')
 
